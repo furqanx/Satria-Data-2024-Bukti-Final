@@ -3,7 +3,7 @@
 **Note** : *jika ada yang tidak dipahami, mohon jangan sungkan untuk menanyakan atau mengklarifikasikan dengan kami lagi ya kak*
 
 Alur pengerjaan notebook ini adalah sebagai berikut:
-- **Lakukan preprocessing pada data unlabeled** kemudian data hasil preprocessing disimpan untuk digunakan pada tahap pelabelan data
+- **Lakukan preprocessing pada data label dan unlabeled** kemudian data hasil preprocessing disimpan untuk digunakan pada tahap pelabelan data
 - **Lakukan training model machine learning** dengan menggunakan model pretrained IndoBERT. Pelatihan model dilakukan sebanyak 10 kali dengan menggunakan nilai parameter yang berbeda (batch size, learning rate, dan jumlah epoch). Untuk informasi mengenai parameter-parameter yang digunakan, kami memberikan informasinya seperti dibawah ini.
 
 berikut dibawah ini jenis parameter yang digunakan :
